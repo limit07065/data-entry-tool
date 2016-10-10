@@ -18,7 +18,7 @@ The client request was simple, scrap the category list from an online site and r
 "id": 3
 }
 
-and so on. It may have taken a longer time but the program helped to solve it in seconds :tada: :cheers:
+and so on. It may have taken a longer time but the program helped to solve it in seconds :tada: 
 
 
 
